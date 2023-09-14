@@ -125,6 +125,7 @@
   - [top books on Reddit](http://booksreddit.com/)
   - [RedditFavorites.com](https://redditfavorites.com/books)
   - [BooksChatter.com](https://bookschatter.com) (scans Twitter)
+  - [ReadUpNext.com](https://www.readupnext.com) - Find Recommended books by influential peeople. Also find books in order.
 - search [books.google.com](https://www.google.com/search?tbm=bks&q=specific+interest) for "specific interest"; try Google's [Talk to Books](https://books.google.com/talktobooks/) (since April 2018)
 - search [Google scholar profiles](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3A&btnG=) for `label:MY_AREA_OF_INTEREST` and check profile names against Amazon's book search
 - [Google Alerts](https://www.google.com/alerts): "new book" + "specific interest"
